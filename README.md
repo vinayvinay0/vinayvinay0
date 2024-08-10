@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayvinay0
-- 👀 I’m interested in learning programming languages and security
-- 🌱 I’m currently learning Web-Development
+- 👀 I’m interested in learning programming languages and CyberSecurity
+- 🌱 I’m currently working as an Cyber Security Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
